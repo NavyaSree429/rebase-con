@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am good
+=======
+how are you?
+>>>>>>> 21f575b (commit)
